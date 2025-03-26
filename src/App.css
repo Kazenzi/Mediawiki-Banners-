@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  
 }
 
 .banner {
@@ -26,6 +27,7 @@ form {
   width: 80%;
   max-width: 400px;
   text-align: left; 
+ 
 }
 
 label {
